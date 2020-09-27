@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My Sourcerer is at <https://sourcerer.io/bhimjipatel>
-<a href="https://sourcerer.io/bhimjipatel" target="_blank">My Sourcerer Link at https://sourcerer.io/bhimjipatel </a>
+<a href="https://sourcerer.io/bhimjipatel" target="_blank">My Sourcerer Link </a>
 <!--- ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel) -->
 |||
 |------------|-------------| 
