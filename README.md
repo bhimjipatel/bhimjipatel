@@ -1,5 +1,4 @@
-<h1>Hi 👋, I'm bhimjipatel</h1> 
-<img src="https://komarev.com/ghpvc/?username=bhimjipatel" alt="bhimjipatel" />
+<h3>Hi 👋, I'm bhimjipatel</h3> <img src="https://komarev.com/ghpvc/?username=bhimjipatel"/>
 
 ### My Sourcerer is at <https://sourcerer.io/bhimjipatel>
 <a href="https://sourcerer.io/bhimjipatel" target="_blank">My Sourcerer Link </a>
