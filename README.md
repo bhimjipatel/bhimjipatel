@@ -3,10 +3,12 @@
 ### My Sourcerer is at <https://sourcerer.io/bhimjipatel>
 
 <!--- ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel) -->
+|||
 |------------|-------------| 
 | ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true&theme=radical) |
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&layout=compact) |
-
+ 
+|||
 |------------|-------------| 
 | <img src="http://octodex.github.com/images/minion.png" width="250"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/image.jpg" width="250"> | 
 
