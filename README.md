@@ -1,4 +1,16 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm bhimjipatel</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhimjipatel" alt="bhimjipatel" /> </p>
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/bhimji-patel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bhimji-patel/" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&layout=compact" alt="bhimjipatel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true" alt="bhimjipatel" /></p>
+===================
 
 ### My Sourcerer is at <https://sourcerer.io/bhimjipatel>
 <a href="https://sourcerer.io/bhimjipatel" target="_blank">My Sourcerer Link </a>
