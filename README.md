@@ -1,7 +1,9 @@
-<h3>Hi 👋, I'm bhimjipatel</h3> <img src="https://komarev.com/ghpvc/?username=bhimjipatel"/>
-
+<h3>Hi 👋, I'm bhimjipatel</h3> 
 ### My Sourcerer is at <https://sourcerer.io/bhimjipatel>
-<a href="https://sourcerer.io/bhimjipatel" target="_blank">My Sourcerer Link </a>
+<img src="https://komarev.com/ghpvc/?username=bhimjipatel"/>
+
+
+
 
 <!--- ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel) -->
 |||
