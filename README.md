@@ -2,8 +2,10 @@
 
 ### My Sourcerer is at <https://sourcerer.io/bhimjipatel>
 <a href="https://sourcerer.io/bhimjipatel" target="_blank">My Sourcerer Link </a>
+
 <a href="https://sourcerer.io/bhimjipatel" target="_blank" rel="noopener">My Sourcerer Link </a>
-![Sourcerer](https://sourcerer.io/bhimjipatel){:target="_blank" rel="noopener"}
+
+[Sourcerer](https://sourcerer.io/bhimjipatel){:target="_blank" rel="noopener"}
 
 <!--- ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel) -->
 |||
