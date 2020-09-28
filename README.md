@@ -11,7 +11,7 @@
 |------------|-------------| 
 | ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&layout=compact) |
 
-<h3>AWS Professional and Specialty Certifications <a href="https://www.youracclaim.com/users/bhimji-patel/badges">My AWS Badges Acclaim</a></h3> 
+<h3>AWS Professional and Specialty Certifications <a href="https://www.youracclaim.com/users/bhimji-patel/badges">See my AWS Badges Acclaim</a></h3> 
 
 |Alexa SkillBuilder Specialty|Big Data Specialty|Database Specialty|DevOps Professional|
 |------------|-------------|-------------|-------------|
