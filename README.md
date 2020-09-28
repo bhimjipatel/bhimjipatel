@@ -1,15 +1,26 @@
 <h3>Hi 👋, I'm Bhimji Patel, <a href="https://sourcerer.io/bhimjipatel">Explore my GitHub Sourcerer</a></h3> 
 <img src="https://komarev.com/ghpvc/?username=bhimjipatel"/>
-<form action="https://sourcerer.io/bhimjipatel">
-    <input type="submit" value="My Sourcerer" />
-</form>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhimji-patel/)
+[![Visits Badge](https://badges.pufler.dev/visits/bhimjipatel/bhimjipatel?style=for-the-badge)](https://github.com/bhimjipatel/bhimjipatel)
+
+<details open>
+ <summary> <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&hide=css,java,html&theme=tokyonight">
+</p>
+</details>
+
+
 
 
 
 <!--- ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel) -->
 |||
 |------------|-------------| 
-| ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&layout=compact) |
+| ![Bhimji Patel's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&layout=compact) |
 
 <h3>AWS Professional and Specialty Certifications <a href="https://www.youracclaim.com/users/bhimji-patel/badges">See my AWS Badges Acclaim</a></h3> 
 
