@@ -16,7 +16,7 @@
 |Alexa SkillBuilder Specialty|Big Data Specialty|Database Specialty|DevOps Professional|
 |------------|-------------|-------------|-------------|
 | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/al.png" width="110"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/bd.png" width="110"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/db.png" width="110"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/do.png" width="110"> | 
-|Machine Learning Specialty|Advanced Networking Specialty|Solutions Atchitect Professional|Security Specialty|
+|Machine Learning Specialty|Advanced Networking Specialty|Solutions Architect Professional|Security Specialty|
 | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/ml.png" width="110"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/nw.png" width="110"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/sa.png" width="110"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/ss.png" width="110"> | 
 
 <!--
