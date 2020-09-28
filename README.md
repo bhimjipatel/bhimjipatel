@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Bhimji Patel, <a href="https://sourcerer.io/bhimjipatel">My GitHub Sourcerer</a></h3> 
+<h3>Hi 👋, I'm Bhimji Patel, <a href="https://sourcerer.io/bhimjipatel">See my GitHub Sourcerer</a></h3> 
 <img src="https://komarev.com/ghpvc/?username=bhimjipatel"/>
 <form action="https://sourcerer.io/bhimjipatel">
     <input type="submit" value="My Sourcerer" />
@@ -13,7 +13,7 @@
  
 |||
 |------------|-------------| 
-| <img src="http://octodex.github.com/images/minion.png" width="250"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/image.jpg" width="250"> | 
+| <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/al.png" width="110"> | <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/bd.png" width="110"> | 
 
 <!--
 **bhimjipatel/bhimjipatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
