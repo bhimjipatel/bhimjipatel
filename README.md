@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Bhimji Patel, <a href="https://sourcerer.io/bhimjipatel">My Sourcerer</a></h3> 
+<h3>Hi 👋, I'm Bhimji Patel, <a href="https://sourcerer.io/bhimjipatel">My GitHub Sourcerer</a></h3> 
 <img src="https://komarev.com/ghpvc/?username=bhimjipatel"/>
 <form action="https://sourcerer.io/bhimjipatel">
     <input type="submit" value="My Sourcerer" />
