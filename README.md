@@ -20,7 +20,7 @@
 <!--- ![Bhimji's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel) -->
 |||
 |------------|-------------| 
-| ![Bhimji Patel's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&layout=compact) |
+| ![Bhimji Patel's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&layout=compact&show_icons=true&theme=radical) |
 
 <h3>AWS Professional and Specialty Certifications <a href="https://www.youracclaim.com/users/bhimji-patel/badges">See my AWS Badges Acclaim</a></h3> 
 
