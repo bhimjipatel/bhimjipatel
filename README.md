@@ -26,7 +26,8 @@
 <details open>
  <summary> <b>My AWS Badges </b>: </summary>
 <br>
-AWS Badges Acclaim Professional/Specialty <a href="https://www.youracclaim.com/users/bhimji-patel/badges"></a>
+ 
+<h4>AWS Badges Acclaim DASHBOARD <a href="https://www.youracclaim.com/users/bhimji-patel/badges"></a></h4>
 
 |Alexa SkillBuilder Specialty|Big Data Specialty|Database Specialty|DevOps Professional|
 |------------|-------------|-------------|-------------|
