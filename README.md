@@ -1,10 +1,14 @@
+<details>
+ <summary> <b> About My Github </b>: </summary>
+
 <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/banner1.jpg" height="191">
 <h4><a href="https://sourcerer.io/bhimjipatel">Bhimji Patel GitHub Sourcerer <img src="https://komarev.com/ghpvc/?username=bhimjipatel"/></a></h4> 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhimji-patel/)
 [![Visits Badge](https://badges.pufler.dev/visits/bhimjipatel/bhimjipatel?style=for-the-badge)](https://github.com/bhimjipatel/bhimjipatel)
+</details>
 
-<details open>
+<details>
  <summary> <b>My Github Stats</b>: </summary>
 
 |||
@@ -12,7 +16,7 @@
 | ![Bhimji Patel's github stats](https://github-readme-stats.vercel.app/api?username=bhimjipatel&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimjipatel&layout=compact&show_icons=true&theme=radical) |
 </details>
 
-<details open>
+<details>
  <summary> <b>My AWS Badges </b>: </summary>
  
 <h4><a href="https://www.youracclaim.com/users/bhimji-patel/badges">AWS Badges Acclaim DASHBOARD </a></h4>
