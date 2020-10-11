@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Bhimji Patel, <a href="https://sourcerer.io/bhimjipatel">Explore my GitHub Sourcerer</a></h3> 
-<img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/banner1.jpg" width="191">
+<img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/banner1.jpg" height="191">
 <img src="https://komarev.com/ghpvc/?username=bhimjipatel"/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhimji-patel/)
