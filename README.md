@@ -16,7 +16,6 @@
 
 <details open>
  <summary> <b>My Github Stats</b>: </summary>
-<br>
 
 |||
 |------------|-------------| 
@@ -25,7 +24,6 @@
 
 <details open>
  <summary> <b>My AWS Badges </b>: </summary>
-<br>
  
 <h4><a href="https://www.youracclaim.com/users/bhimji-patel/badges">AWS Badges Acclaim DASHBOARD </a></h4>
 
