@@ -1,4 +1,4 @@
-<details>
+<details open>
  <summary> <b> About My Github </b>: </summary>
 
 <img src="https://github.com/bhimjipatel/bhimjipatel/blob/master/images/banner1.jpg" height="191">
@@ -9,7 +9,7 @@
 </details>
 
 <details>
- <summary> <b>My Github Stats</b>: </summary>
+ <summary> <b>My Github Stats </b>: </summary>
 
 |||
 |------------|-------------| 
