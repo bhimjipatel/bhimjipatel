@@ -13,7 +13,7 @@
 <img src="images/sa.png?raw=true">
 <img src="images/saa.png?raw=true">
 <img src="images/ss.png?raw=true">
-<img src="images/BhimjiPhoto.jpg?raw=true" height="100">
+<img src="images/BhimjiPhoto2.jpg?raw=true" height="100">
 <img src="images/AdobeACI Master.gif?raw=true">
 <br/>
 <img src="images/tp.jpg?raw=true" height="250">
